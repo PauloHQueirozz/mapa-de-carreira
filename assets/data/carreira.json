@@ -1,73 +1,83 @@
 {
   "profile": {
     "name": "Paulo Henrique Queiroz Vieira",
-    "headline": "Tecnologia da Informação | Cloud Computing (AWS) | Desenvolvedor Java & Web | Designer UX/UI",
-    "summary": "Profissional de tecnologia focado em Cloud Computing, desenvolvimento de software e automação de processos. Aluno de Análise e Desenvolvimento de Sistemas e formado pelo programa AWS re/Start + AI na Escola da Nuvem, acumulando 270 horas de treinamento intensivo. Possuo forte atuação prática na criação de arquiteturas escaláveis, desenvolvimento backend com Java e interfaces modernas integrando design estratégico no Figma. Entusiasta de automações com Power Automate e com vivência em metodologias ágeis em ambientes sob pressão como a Sprint Turbo do Instituto PROA.",
-    "cvLink": "assets/docs/curriculo_paulo_henrique.pdf",
+    "headline": "Engenheiro de Soluções Cloud & Automação",
+    "summary": "Profissional de tecnologia com sólida formação em infraestrutura de nuvem e automação de processos. Alumnus do programa AWS re/Start na Escola da Nuvem, com 270 horas de treinamento técnico especializado. Experiência prática no desenvolvimento de aplicações com a stack HTML, CSS, JavaScript e Java, além da prototipagem de interfaces no Figma e criação de fluxos inteligentes com condicionais e loops no Microsoft Power Automate. Participante ativo da Sprint Turbo no Instituto PROA, com forte vivência em metodologias ágeis e entregas sob pressão.",
+    "photo": "assets/images/profile.png.jpeg",
+    "cvLink": "#",
     "contacts": [
+      { "type": "LinkedIn", "url": "https://linkedin.com/in/paulohqueiroz" },
       { "type": "GitHub", "url": "https://github.com/PauloHQueirozz" },
-      { "type": "LinkedIn", "url": "https://www.linkedin.com/in/paulohqueiroz/" },
       { "type": "E-mail", "url": "mailto:contatopaulohqueiroz@gmail.com" }
     ]
   },
   "careerSteps": [
     {
-      "title": "Início na Programação",
-      "description": "Primeiros contatos com lógica de programação, desenvolvimento web e construção de interfaces modernas utilizando HTML, CSS e JavaScript.",
-      "softSkills": ["Curiosidade", "Aprendizado contínuo", "Criatividade", "Organização"],
-      "roadmap": ["HTML5", "CSS3", "JavaScript", "Git", "GitHub"]
+      "title": "Momento Atual: Engenheiro de Soluções Cloud & Automação Júnior",
+      "description": "Ponto de partida focado na consolidação da infraestrutura em nuvem AWS (270h Escola da Nuvem) e desenvolvimento backend em Java. Atuação direta na construção de APIs seguras e na criação de fluxos de hiperautomação inteligente com condicionais e loops no Power Automate para otimização de processos corporativos.",
+      "softSkills": ["Resolução de problemas sob pressão", "Aprendizado ágil", "Visão sistêmica", "Trabalho em equipe"],
+      "roadmap": ["AWS Services (EC2, S3, IAM)", "Java Core & APIs", "Power Automate", "Git & GitHub"]
     },
     {
-      "title": "Desenvolvimento Backend & APIs",
-      "description": "Foco na construção de sistemas corporativos robustos utilizando Java, orientação a objetos, além de integração com bancos de dados relacionais e criação de APIs REST funcionais.",
-      "softSkills": ["Pensamento analítico", "Resolução de problemas", "Raciocínio lógico"],
-      "roadmap": ["Java", "POO", "SQL", "MySQL", "APIs REST"]
+      "title": "Próximos Anos: Arquiteto de Nuvem & Engenheiro de IA Generativa",
+      "description": "Evolução para o desenho e sustentação de ecossistemas complexos na nuvem, integrando modelos de Inteligência Artificial (LLMs) diretamente no backend Java. Responsável por arquitetar soluções escaláveis, seguras e automatizadas que usam IA para tomada de decisões operacionais eficientes.",
+      "softSkills": ["Pensamento analítico", "Adaptabilidade tecnológica", "Comunicação técnica assertiva"],
+      "roadmap": ["AWS Advanced Architecture", "Integração de LLMs", "Java Spring Boot", "Security & IAM"]
     },
     {
-      "title": "Design & Ferramentas Digitais",
-      "description": "Desenvolvimento de protótipos funcionais de alta fidelidade e design de interface centrado na usabilidade. Concepção e estruturação visual do projeto Recanto Cerimonial.",
-      "softSkills": ["Design Thinking", "Trabalho em equipe", "Comunicação"],
-      "roadmap": ["Figma", "UI/UX", "Prototipagem", "Design Systems"]
+      "title": "Futuro Médio Prazo: Especialista em IA e UX Conversacional (AI UX Designer)",
+      "description": "Profissão em alta fusão que une o poder técnico de Cloud/Backend ao design estratégico do Figma. Foco total em projetar a experiência de produtos digitais hiperautomatizados, garantindo que as jornadas mediadas por Inteligência Artificial sejam fluidas, intuitivas e centradas no usuário.",
+      "softSkills": ["Design Thinking", "Empatia com o usuário", "Colaboração multifuncional"],
+      "roadmap": ["Advanced Figma", "Prototipagem de IA", "Design Systems", "UX Research"]
     },
     {
-      "title": "Infraestrutura & Computação em Nuvem",
-      "description": "Especialização com 270 horas de treinamento técnico no programa AWS re/Start + AI através da Escola da Nuvem. Foco completo em segurança, redes e arquiteturas escaláveis na AWS.",
-      "softSkills": ["Visão sistêmica", "Planejamento", "Adaptabilidade"],
-      "roadmap": ["AWS", "Cloud Computing", "IAM", "EC2", "S3"]
+      "title": "Futuro Longo Prazo: Gerente de Engenharia de Plataformas & Hiperautomação",
+      "description": "Cargo de liderança técnica responsável por gerenciar times multidisciplinares de Cloud, Devs e Designers. Foco em construir plataformas internas que automatizam 100% da esteira de produção e infraestrutura de grandes empresas, aplicando metodologias ágeis de alta intensidade baseadas no modelo Sprint Turbo.",
+      "softSkills": ["Liderança técnica", "Gestão de tempo e escopo", "Tomada de decisão rápida"],
+      "roadmap": ["Platform Engineering", "Scrum Master / Agile", "FinOps (Controle de Custos Cloud)", "Governance"]
     },
     {
-      "title": "Automação & Metodologias Ágeis",
-      "description": "Construção de fluxos inteligentes com loops e condicionais utilizando o Power Automate. Desenvolvimento de soluções ágeis sob cenários de alta pressão na Sprint Turbo do Instituto PROA.",
-      "softSkills": ["Gestão de tempo", "Tomada de decisão", "Liderança técnica"],
-      "roadmap": ["Power Automate", "Scrum", "Metodologias Ágeis", "IA Generativa"]
+      "title": "Cargo de Alto Escalão: Diretor Global de Tecnologia e Inovação em Nuvem (CTO)",
+      "description": "Posição executiva máxima de tecnologia. Responsável por ditar a estratégia global de inovação, arquitetura de nuvem e transformação digital da companhia. Alinhamento direto entre soluções técnicas de ponta (IA, Cloud, Automação) e as metas macro de crescimento do negócio.",
+      "softSkills": ["Visão de negócios global", "Liderança inspiradora", "Gestão de crises", "Negociação"],
+      "roadmap": ["Estratégia Corporativa", "Cloud Governance Global", "Inovação Disruptiva", "Mentoria de Lideranças"]
     }
   ],
   "skillGroups": [
     {
       "category": "Cloud & Infraestrutura",
       "skills": [
-        { "name": "AWS (Amazon Web Services)", "level": 85 },
-        { "name": "Cloud Computing Architecture", "level": 80 }
+        { "name": "AWS Cloud Core", "level": 90 },
+        { "name": "IAM & Segurança", "level": 85 },
+        { "name": "Sistemas Operacionais (Linux/Windows)", "level": 80 }
       ]
     },
     {
-      "category": "Desenvolvimento & Backend",
+      "category": "Desenvolvimento & Automação",
       "skills": [
-        { "name": "Java", "level": 80 },
-        { "name": "JavaScript / HTML / CSS", "level": 85 }
+        { "name": "Java & POO", "level": 80 },
+        { "name": "Microsoft Power Automate", "level": 85 },
+        { "name": "HTML5 / CSS3 / JavaScript", "level": 90 }
       ]
     },
     {
-      "category": "Design & Ferramentas",
+      "category": "Design de Interface",
       "skills": [
-        { "name": "Figma", "level": 90 },
-        { "name": "Git & GitHub", "level": 85 }
+        { "name": "Figma (UI/UX)", "level": 85 },
+        { "name": "Prototipagem de Alta Fidelidade", "level": 80 }
       ]
     }
   ],
-  "otherSkills": ["Power Automate", "Scrum", "Arquitetura de Software", "IA Generativa", "Gestão de TI"],
+  "otherSkills": [
+    "Metodologias Ágeis",
+    "Scrum",
+    "Lógica de Programação",
+    "Git & GitHub",
+    "FinOps",
+    "Design Thinking"
+  ],
   "languages": [
     { "name": "Português", "level": "Nativo" },
-    { "name": "Inglês", "level": "Intermediário / Técnico" }
+    { "name": "Inglês", "level": "Técnico Avançado" }
   ]
 }
