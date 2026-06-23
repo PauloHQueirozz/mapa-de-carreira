@@ -1,0 +1,73 @@
+{
+  "profile": {
+    "name": "Paulo Henrique Queiroz Vieira",
+    "headline": "Tecnologia da Informação | Cloud Computing (AWS) | Desenvolvedor Java & Web | Designer UX/UI",
+    "summary": "Profissional de tecnologia focado em Cloud Computing, desenvolvimento de software e automação de processos. Aluno de Análise e Desenvolvimento de Sistemas e formado pelo programa AWS re/Start + AI na Escola da Nuvem, acumulando 270 horas de treinamento intensivo. Possuo forte atuação prática na criação de arquiteturas escaláveis, desenvolvimento backend com Java e interfaces modernas integrando design estratégico no Figma. Entusiasta de automações com Power Automate e com vivência em metodologias ágeis em ambientes sob pressão como a Sprint Turbo do Instituto PROA.",
+    "cvLink": "assets/docs/curriculo_paulo_henrique.pdf",
+    "contacts": [
+      { "type": "GitHub", "url": "https://github.com/PauloHQueirozz" },
+      { "type": "LinkedIn", "url": "https://www.linkedin.com/in/paulohqueiroz/" },
+      { "type": "E-mail", "url": "mailto:contatopaulohqueiroz@gmail.com" }
+    ]
+  },
+  "careerSteps": [
+    {
+      "title": "Início na Programação",
+      "description": "Primeiros contatos com lógica de programação, desenvolvimento web e construção de interfaces modernas utilizando HTML, CSS e JavaScript.",
+      "softSkills": ["Curiosidade", "Aprendizado contínuo", "Criatividade", "Organização"],
+      "roadmap": ["HTML5", "CSS3", "JavaScript", "Git", "GitHub"]
+    },
+    {
+      "title": "Desenvolvimento Backend & APIs",
+      "description": "Foco na construção de sistemas corporativos robustos utilizando Java, orientação a objetos, além de integração com bancos de dados relacionais e criação de APIs REST funcionais.",
+      "softSkills": ["Pensamento analítico", "Resolução de problemas", "Raciocínio lógico"],
+      "roadmap": ["Java", "POO", "SQL", "MySQL", "APIs REST"]
+    },
+    {
+      "title": "Design & Ferramentas Digitais",
+      "description": "Desenvolvimento de protótipos funcionais de alta fidelidade e design de interface centrado na usabilidade. Concepção e estruturação visual do projeto Recanto Cerimonial.",
+      "softSkills": ["Design Thinking", "Trabalho em equipe", "Comunicação"],
+      "roadmap": ["Figma", "UI/UX", "Prototipagem", "Design Systems"]
+    },
+    {
+      "title": "Infraestrutura & Computação em Nuvem",
+      "description": "Especialização com 270 horas de treinamento técnico no programa AWS re/Start + AI através da Escola da Nuvem. Foco completo em segurança, redes e arquiteturas escaláveis na AWS.",
+      "softSkills": ["Visão sistêmica", "Planejamento", "Adaptabilidade"],
+      "roadmap": ["AWS", "Cloud Computing", "IAM", "EC2", "S3"]
+    },
+    {
+      "title": "Automação & Metodologias Ágeis",
+      "description": "Construção de fluxos inteligentes com loops e condicionais utilizando o Power Automate. Desenvolvimento de soluções ágeis sob cenários de alta pressão na Sprint Turbo do Instituto PROA.",
+      "softSkills": ["Gestão de tempo", "Tomada de decisão", "Liderança técnica"],
+      "roadmap": ["Power Automate", "Scrum", "Metodologias Ágeis", "IA Generativa"]
+    }
+  ],
+  "skillGroups": [
+    {
+      "category": "Cloud & Infraestrutura",
+      "skills": [
+        { "name": "AWS (Amazon Web Services)", "level": 85 },
+        { "name": "Cloud Computing Architecture", "level": 80 }
+      ]
+    },
+    {
+      "category": "Desenvolvimento & Backend",
+      "skills": [
+        { "name": "Java", "level": 80 },
+        { "name": "JavaScript / HTML / CSS", "level": 85 }
+      ]
+    },
+    {
+      "category": "Design & Ferramentas",
+      "skills": [
+        { "name": "Figma", "level": 90 },
+        { "name": "Git & GitHub", "level": 85 }
+      ]
+    }
+  ],
+  "otherSkills": ["Power Automate", "Scrum", "Arquitetura de Software", "IA Generativa", "Gestão de TI"],
+  "languages": [
+    { "name": "Português", "level": "Nativo" },
+    { "name": "Inglês", "level": "Intermediário / Técnico" }
+  ]
+}
