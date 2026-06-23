@@ -4,7 +4,7 @@
     "headline": "Engenheiro de Soluções Cloud & Automação",
     "summary": "Profissional de tecnologia com sólida formação em infraestrutura de nuvem e automação de processos. Alumnus do programa AWS re/Start na Escola da Nuvem, com 270 horas de treinamento técnico especializado. Experiência prática no desenvolvimento de aplicações com a stack HTML, CSS, JavaScript e Java, além da prototipagem de interfaces no Figma e criação de fluxos inteligentes com condicionais e loops no Microsoft Power Automate. Participante ativo da Sprint Turbo no Instituto PROA, com forte vivência em metodologias ágeis e entregas sob pressão.",
     "photo": "assets/images/profile.png.jpeg",
-    "cvLink": "#",
+    "cvLink": "curriculo.pdf",
     "contacts": [
       { "type": "LinkedIn", "url": "https://linkedin.com/in/paulohqueiroz" },
       { "type": "GitHub", "url": "https://github.com/PauloHQueirozz" },
